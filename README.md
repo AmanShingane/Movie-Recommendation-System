@@ -1,4 +1,4 @@
-# 🎬 CineMatch — FastAPI + Streamlit Movie Recommender
+# 🎬 Movie Recommendation System — FastAPI + Streamlit Movie Recommender
 
 A full-stack movie recommendation app built with:
 - **FastAPI** — Backend API with TF-IDF cosine similarity + TMDB integration
